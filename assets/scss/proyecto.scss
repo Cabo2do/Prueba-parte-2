@@ -1,0 +1,23 @@
+// Fuente
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+// Framework
+@import "../bootstrap-5.3.3/scss/bootstrap.scss";
+
+// Estilos
+
+.caja {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    justify-content: center;
+    align-items: center;   
+    display: flex;
+    margin: 25px;
+    
+}
+
+.caja button{
+    text-align: center;
+}
+
